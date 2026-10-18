@@ -1,4 +1,4 @@
-# Problem 8: What's Your Name?
+# Problem 9: What's Your Name?
 # HackerRank Link: https://www.hackerrank.com/challenges/whats-your-name/problem
 def print_full_name(first, last):
     # Write your code here
